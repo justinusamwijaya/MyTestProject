@@ -1,0 +1,11 @@
+.centered{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+}
+
+#panelbutton button:hover{
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    color: rgba(0, 0, 0, 0.35) !important;
+}
